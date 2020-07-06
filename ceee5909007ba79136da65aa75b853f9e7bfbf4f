@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "2970ef6a_503eff4c",
+        "filename": "default.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 382
+      },
+      "writtenOn": "2020-07-06T19:27:01Z",
+      "side": 1,
+      "message": "you still have second revision tag here which caused an error in xml parse",
+      "revId": "ceee5909007ba79136da65aa75b853f9e7bfbf4f",
+      "serverId": "c72cd27d-1743-4a55-84a4-cd13b8400c52",
+      "unresolved": true
+    }
+  ]
+}
