@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4a9a1859_622012cd",
+        "filename": "default.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 382
+      },
+      "writtenOn": "2020-07-06T17:29:55Z",
+      "side": 1,
+      "message": "second revision tag here",
+      "range": {
+        "startLine": 35,
+        "startChar": 61,
+        "endLine": 35,
+        "endChar": 69
+      },
+      "revId": "c0d448d4a205173857d78ba895deb9729dd291e0",
+      "serverId": "c72cd27d-1743-4a55-84a4-cd13b8400c52",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "cb28179c_b285f581",
+        "filename": "default.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 382
+      },
+      "writtenOn": "2020-07-06T17:29:55Z",
+      "side": 1,
+      "message": "must not be touched",
+      "range": {
+        "startLine": 51,
+        "startChar": 60,
+        "endLine": 51,
+        "endChar": 68
+      },
+      "revId": "c0d448d4a205173857d78ba895deb9729dd291e0",
+      "serverId": "c72cd27d-1743-4a55-84a4-cd13b8400c52",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "cc97340e_583b9e66",
+        "filename": "default.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 382
+      },
+      "writtenOn": "2020-07-06T17:29:55Z",
+      "side": 1,
+      "message": "must not be touched",
+      "range": {
+        "startLine": 52,
+        "startChar": 55,
+        "endLine": 52,
+        "endChar": 63
+      },
+      "revId": "c0d448d4a205173857d78ba895deb9729dd291e0",
+      "serverId": "c72cd27d-1743-4a55-84a4-cd13b8400c52",
+      "unresolved": true
+    }
+  ]
+}
