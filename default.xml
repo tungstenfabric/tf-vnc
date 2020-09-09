@@ -21,6 +21,7 @@
 <project name="tf-web-core" remote="githubtf" path="contrail-web-core"/>
 <project name="tf-webui-third-party" remote="githubtf" path="contrail-webui-third-party"/>
 <project name="tf-tripleo-puppet" remote="githubtf" revision="stable/queens" path="openstack/contrail-tripleo-puppet"/>
+<project name="tf-deployment-test" remote="githubtf" path="tf-deployment-test"/>	
 <!-- vCenter projects -->
 <project name="tf-java-api" remote="githubtf" path="java-api"/>
 <project name="tf-vijava" remote="githubtf" path="vijava"/>
