@@ -1,11 +1,13 @@
 <manifest>
   <remote name="github" fetch="https://github.com/Juniper"/>
+  <remote name="githubtf" fetch="https://github.com/tungstenfabric"/>
+
   <default revision="refs/heads/master" remote="github"/>
 
   <project name="tf-build" remote="githubtf" path="tools/build">
     <copyfile src="SConstruct" dest="SConstruct"/>
   </project>
-  <project name="contrail-controller" remote="github" path="controller"/>
+  <project name="tf-controller" remote="githubtf" path="controller"/>
   <project name="tf-vrouter" remote="githubtf" path="vrouter"/>
   <project name="tf-third-party" remote="githubtf" path="third_party"/>
   <project name="tf-common" remote="githubtf" path="src/contrail-common"/>
