@@ -20,7 +20,7 @@
 <project name="tf-web-controller" remote="githubtf" revision="R2011" path="contrail-web-controller"/>
 <project name="tf-web-core" remote="githubtf" revision="R2011" path="contrail-web-core"/>
 <project name="tf-webui-third-party" remote="githubtf" revision="R2011" path="contrail-webui-third-party"/>
-<project name="tf-tripleo-puppet" remote="githubtf" revision="master" path="openstack/contrail-tripleo-puppet"/>
+<project name="tf-tripleo-puppet" remote="githubtf" revision="R2011" path="openstack/contrail-tripleo-puppet"/>
 <project name="tf-deployment-test" remote="githubtf" revision="R2011" path="tf-deployment-test"/>
 <!-- vCenter projects -->
 <project name="tf-java-api" remote="githubtf" revision="R2011" path="java-api"/>
