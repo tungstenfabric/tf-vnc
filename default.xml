@@ -51,5 +51,6 @@
 <project name="tf-tripleo-heat-templates" remote="github" revision="stable/queens" path="tf-tripleo-heat-templates"/>
 <project name="tf-openshift-ansible" remote="github" revision="release-3.11-contrail" path="tf-openshift-ansible" />
 <project name="tf-operator" remote="github" revision="master" path="tf-operator"/>
+<project name="tf-openshift" remote="github" revision="master" path="tf-openshift"/>
 
 </manifest>
