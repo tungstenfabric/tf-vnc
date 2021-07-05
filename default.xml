@@ -44,7 +44,7 @@
 <!-- Contrail third party packages -->
 <project name="tf-third-party-packages" remote="githubtf" revision="master" path="third_party/contrail-third-party-packages" />
 <!-- Deployers based on scratch -->
-<project name="tf-charms" remote="githubtf" revision="R2011" path="tf-charms"/>
+<project name="tf-charms" remote="githubtf" revision="master" path="tf-charms"/>
 <project name="tf-helm-deployer" remote="githubtf" revision="master" path="tf-helm-deployer"/>
 <project name="tf-ansible-deployer" remote="githubtf" revision="R2011" path="tf-ansible-deployer"/>
 <project name="tf-kolla-ansible" remote="githubtf" revision="master" path="tf-kolla-ansible"/>
