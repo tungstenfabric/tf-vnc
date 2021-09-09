@@ -46,7 +46,7 @@
 <project name="tf-charms" remote="github" revision="21.3" path="tf-charms"/>
 <project name="tf-helm-deployer" remote="github" revision="21.3" path="tf-helm-deployer"/>
 <project name="tf-ansible-deployer" remote="github" revision="R21.3" path="tf-ansible-deployer"/>
-<project name="tf-kolla-ansible" remote="github" revision="R21.3" revision="master" path="tf-kolla-ansible"/>
+<project name="tf-kolla-ansible" remote="github" revision="master" path="tf-kolla-ansible"/>
 <project name="tf-container-builder" remote="github"  revision="R21.3" path="tf-container-builder"/>
 <project name="tf-tripleo-heat-templates" remote="github" revision="stable/queens" path="tf-tripleo-heat-templates"/>
 <project name="tf-openshift-ansible" remote="github" revision="release-3.11-contrail" path="tf-openshift-ansible" />
