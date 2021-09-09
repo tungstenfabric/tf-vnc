@@ -20,7 +20,7 @@
 <project name="tf-web-core" remote="github" revision="R21.3" path="contrail-web-core"/>
 <project name="tf-webui-third-party" revision="R21.3" remote="github" path="contrail-webui-third-party"/>
 <project name="tf-tripleo-puppet" remote="github" revision="R21.3" path="openstack/contrail-tripleo-puppet"/>
-<project name="tf-deployment-test" remote="github" revision="R21.3" path="tf-deployment-test"/>
+<project name="tf-deployment-test" remote="github" revision="master" path="tf-deployment-test"/>
 <!-- vCenter projects -->
 <project name="tf-java-api" remote="github" revision="R21.3" path="java-api"/>
 <project name="tf-vijava" remote="github" revision="R21.3" path="vijava"/>
@@ -43,8 +43,8 @@
 <!-- Contrail third party packages -->
 <project name="tf-third-party-packages" remote="github" revision="master" path="third_party/contrail-third-party-packages" />
 <!-- Deployers based on scratch -->
-<project name="tf-charms" remote="github" revision="R21.3" path="tf-charms"/>
-<project name="tf-helm-deployer" remote="github" revision="R21.3" path="tf-helm-deployer"/>
+<project name="tf-charms" remote="github" revision="master" path="tf-charms"/>
+<project name="tf-helm-deployer" remote="github" revision="master" path="tf-helm-deployer"/>
 <project name="tf-ansible-deployer" remote="github" revision="R21.3" path="tf-ansible-deployer"/>
 <project name="tf-kolla-ansible" remote="github" revision="master" path="tf-kolla-ansible"/>
 <project name="tf-container-builder" remote="github"  revision="R21.3" path="tf-container-builder"/>
